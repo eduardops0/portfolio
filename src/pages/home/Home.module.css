@@ -266,7 +266,7 @@ padding: 90px 0;
 }
 
 .footerProject {
-    width: 100%;
+    width: 110vw;
     background-color: #1A1A1A;
     display: flex;
     flex-direction: column;
